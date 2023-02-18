@@ -4,10 +4,9 @@ All of my Deep Learning Projects Repository
 
 
 
-a
+
 
 # RNN
----
 RNN - Sequence data를 다루는 모델 : t 시점의 데이터와 t+1 데이터가 연결되고 t+2 데이터가 연결 되는 데이터
 
 Sequence Modeling 의 필요성 : 각기 다른 데이터의 입력과 출력이 필요할 때
@@ -37,7 +36,7 @@ Sequence Modeling 의 필요성 : 각기 다른 데이터의 입력과 출력이
 * many to many
 
 ### LSTM
----
+
 RNN의 vanishing gradient 문제를 해결하기 위해 나온 아키텍쳐
 
 구성요소
@@ -54,7 +53,7 @@ RNN의 vanishing gradient 문제를 해결하기 위해 나온 아키텍쳐
 4. Output Layer (Local Context - x(t) 데이터에 의한 정보 출력) 
 
 ### Transformer
----
+
 어텐션/ 인코더 레이어/ 디코더 레이어로 구성
 
 병렬처리가 힘든 문제를 해결하기 위해
