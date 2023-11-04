@@ -5,3 +5,6 @@
 
 
 ![val_batch0_pred](https://github.com/Nempet9398/DL/assets/70493186/3437e1c9-dd11-4f6c-82ce-495eef2c0503)
+
+
+![image](https://github.com/Nempet9398/DL/assets/70493186/d730ec79-bffe-4d66-8885-603dee779cab)
